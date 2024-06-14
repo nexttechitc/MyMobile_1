@@ -1,0 +1,1 @@
+2023-04-29 10:37:02:629 [Appium] Welcome to Appium v2.0.0-beta.59
